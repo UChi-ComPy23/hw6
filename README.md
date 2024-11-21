@@ -13,7 +13,7 @@ to install the packages in [`requirements.txt`](requirements.txt)
 This homework is a short one to give you time to work on your project.
 
 ### Due Date
-This assignment is due Thursday, November 16 at 10:00 pm Chicago time.
+This assignment is due Tuesday, December 3 at 10:00 pm Chicago time.
 
 ### Grading Rubric
 
@@ -22,6 +22,7 @@ The following rubric will be used for grading.
 |  | Total |
 |:-:|:-:|
 | Problem 0 | /25 |
+| Problem 1 | /30 |
 
 Correctness will be based on code (i.e. did you provide was was asked for) and the content of [`answers.ipynb`](answers.ipynb).
 
